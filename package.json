@@ -1,0 +1,17 @@
+{
+  "name": "3d-football-stadium",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A procedural 3D football stadium seat preview experience.",
+  "author": "thebuggeddev <thebuggeddev@gmail.com> (https://x.com/thebuggeddev)",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.1.1"
+  }
+}
